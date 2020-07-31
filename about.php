@@ -65,7 +65,7 @@
     <div class="container">
         <div class="media-container-row">
             <div class="media-content px-3 align-self-center mbr-white py-2">
-                <p class="mbr-text testimonial-text mbr-fonts-style display-7">I BELIEVE CREATIVITY IS THE NEW DEAL FROM NOW ON AND THEN, AS A GROUP OF YOUTH WE BELIEVE CREATIVE FOUNDATION OF YOUR BUSINESS IS THE MAJOR KEY TO A STRONGER RESULT INTO TO THE MARKET, <br>LETS US TAKE CARE OF YOUR IDEA AND IMPROVISE IT PHYSICALLY, AS WE HANDLE IT ON AS STRICTLY CREATIVE.</p>
+                <p class="mbr-text testimonial-text mbr-fonts-style display-7">I BELIEVE CREATIVITY IS THE NEW DEAL FROM NOW ON AND THEN, AS A GROUP OF YOUTH WE BELIEVE CREATIVE FOUNDATION OF YOUR BUSINESS IS THE MAJOR KEY TO A STRONGER RESULT INTO THE MARKET, <br>LET US TAKE CARE OF YOUR IDEA AND IMPROVISE IT PHYSICALLY, AS WE HANDLE IT ON AS STRICTLY CREATIVE.</p>
                 <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7">
                    Juliana K</p>
                 <p class="mbr-author-desc mbr-fonts-style display-7">
