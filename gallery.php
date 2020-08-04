@@ -29,7 +29,58 @@
 <section class="mbr-gallery mbr-slider-carousel cid-s6bgwwPkDi" id="gallery3-m">
 
     <div>
-        <div><!-- Filter --><!-- Gallery --><div class="mbr-gallery-row"><div class="mbr-gallery-layout-default"><div><div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="0" data-toggle="modal"><img src="assets/images/20190828-2229-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Responsive"><div href="#lb-gallery3-m" data-slide-to="1" data-toggle="modal"><img src="assets/images/20200614-1505-2000x2000-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Creative"><div href="#lb-gallery3-m" data-slide-to="2" data-toggle="modal"><img src="assets/images/20190828-138-2000x2000-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Animated"><div href="#lb-gallery3-m" data-slide-to="3" data-toggle="modal"><img src="assets/images/20200604-2100-2000x2000-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="4" data-toggle="modal"><img src="assets/images/20190810-15-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="5" data-toggle="modal"><img src="assets/images/20190810-57-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Responsive"><div href="#lb-gallery3-m" data-slide-to="6" data-toggle="modal"><img src="assets/images/20190814-1155-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Animated"><div href="#lb-gallery3-m" data-slide-to="7" data-toggle="modal"><img src="assets/images/20190814-1329-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="8" data-toggle="modal"><img src="assets/images/20190906-43-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="9" data-toggle="modal"><img src="assets/images/20190910-932-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="10" data-toggle="modal"><img src="assets/images/20190814-2244-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="11" data-toggle="modal"><img src="assets/images/20190818-1453-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="12" data-toggle="modal"><img src="assets/images/20190818-1454-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="13" data-toggle="modal"><img src="assets/images/20200531-2138-2000x2000-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="14" data-toggle="modal"><img src="assets/images/20190812-1001-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="15" data-toggle="modal"><img src="assets/images/20190815-2156-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div></div></div><div class="clearfix"></div></div></div><!-- Lightbox --><div data-app-prevent-settings="" class="mbr-slider modal fade carousel slide" tabindex="-1" data-keyboard="true" data-interval="false" id="lb-gallery3-m"><div class="modal-dialog"><div class="modal-content"><div class="modal-body"><div class="carousel-inner"><div class="carousel-item active"><img src="assets/images/20190828-2229-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20200614-1505-2000x2000.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190828-138-2000x2000.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20200604-2100-2000x2000.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190810-15-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190810-57-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190814-1155-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190814-1329-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190906-43-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190910-932-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190814-2244-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190818-1453-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190818-1454-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20200531-2138-2000x2000.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190812-1001-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190815-2156-1080x1080.png" alt="" title=""></div></div><a class="carousel-control carousel-control-prev" role="button" data-slide="prev" href="#lb-gallery3-m"><span class="mbri-left mbr-iconfont" aria-hidden="true"></span><span class="sr-only">Previous</span></a><a class="carousel-control carousel-control-next" role="button" data-slide="next" href="#lb-gallery3-m"><span class="mbri-right mbr-iconfont" aria-hidden="true"></span><span class="sr-only">Next</span></a><a class="close" href="#" role="button" data-dismiss="modal"><span class="sr-only">Close</span></a></div></div></div></div></div>
+        <div><!-- Filter --><!-- Gallery -->
+        <div class="mbr-gallery-row">
+            <div class="mbr-gallery-layout-default"><div><div>
+            <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome">
+            <div href="#lb-gallery3-m" data-slide-to="0" data-toggle="modal">
+                <img src="assets/images/20190828-2229-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span>
+            </div></div>
+        <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Responsive">
+            <div href="#lb-gallery3-m" data-slide-to="1" data-toggle="modal">
+            <img src="assets/images/20200614-1505-2000x2000-800x800.png" alt="" title=""><span class="icon-focus"></span>
+            </div>
+        </div>
+        <!-- <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Creative">
+            <div href="#lb-gallery3-m" data-slide-to="2" data-toggle="modal">
+            <img src="assets/images/20190828-138-2000x2000-800x800.png" alt="" title=""><span class="icon-focus"></span>
+            </div>
+        </div> -->
+        <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Animated">
+            <div href="#lb-gallery3-m" data-slide-to="3" data-toggle="modal">
+            <img src="assets/images/20200604-2100-2000x2000-800x800.png" alt="" title=""><span class="icon-focus"></span>
+            </div>
+        </div>
+        <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome">
+            <div href="#lb-gallery3-m" data-slide-to="4" data-toggle="modal">
+            <img src="assets/images/20190810-15-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span>
+            </div>
+        </div>
+        <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome">
+            <div href="#lb-gallery3-m" data-slide-to="5" data-toggle="modal">
+            <img src="assets/images/20190810-57-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span>
+            </div>
+        </div>
+        <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Responsive">
+            <div href="#lb-gallery3-m" data-slide-to="6" data-toggle="modal">
+            <img src="assets/images/20190814-1155-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div>
+        </div>
+        <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Animated">
+            <div href="#lb-gallery3-m" data-slide-to="7" data-toggle="modal">
+            <img src="assets/images/20190814-1329-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span>
+            </div>
+        </div>
+        <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome">
+            <div href="#lb-gallery3-m" data-slide-to="8" data-toggle="modal">
+            <img src="assets/images/20190906-43-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span>
+            </div>
+        </div>
+        <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome">
+            <div href="#lb-gallery3-m" data-slide-to="9" data-toggle="modal">
+            <img src="assets/images/20190910-932-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span>
+            </div>
+        </div>
+        <div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="10" data-toggle="modal"><img src="assets/images/20190814-2244-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="11" data-toggle="modal"><img src="assets/images/20190818-1453-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="12" data-toggle="modal"><img src="assets/images/20190818-1454-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="13" data-toggle="modal"><img src="assets/images/20200531-2138-2000x2000-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="14" data-toggle="modal"><img src="assets/images/20190812-1001-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div><div class="mbr-gallery-item mbr-gallery-item--p1" data-video-url="false" data-tags="Awesome"><div href="#lb-gallery3-m" data-slide-to="15" data-toggle="modal"><img src="assets/images/20190815-2156-1080x1080-800x800.png" alt="" title=""><span class="icon-focus"></span></div></div></div></div><div class="clearfix"></div></div></div><!-- Lightbox --><div data-app-prevent-settings="" class="mbr-slider modal fade carousel slide" tabindex="-1" data-keyboard="true" data-interval="false" id="lb-gallery3-m"><div class="modal-dialog"><div class="modal-content"><div class="modal-body"><div class="carousel-inner"><div class="carousel-item active"><img src="assets/images/20190828-2229-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20200614-1505-2000x2000.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190828-138-2000x2000.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20200604-2100-2000x2000.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190810-15-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190810-57-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190814-1155-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190814-1329-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190906-43-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190910-932-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190814-2244-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190818-1453-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190818-1454-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20200531-2138-2000x2000.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190812-1001-1080x1080.png" alt="" title=""></div><div class="carousel-item"><img src="assets/images/20190815-2156-1080x1080.png" alt="" title=""></div></div><a class="carousel-control carousel-control-prev" role="button" data-slide="prev" href="#lb-gallery3-m"><span class="mbri-left mbr-iconfont" aria-hidden="true"></span><span class="sr-only">Previous</span></a><a class="carousel-control carousel-control-next" role="button" data-slide="next" href="#lb-gallery3-m"><span class="mbri-right mbr-iconfont" aria-hidden="true"></span><span class="sr-only">Next</span></a><a class="close" href="#" role="button" data-dismiss="modal"><span class="sr-only">Close</span></a></div></div></div></div></div>
     </div>
 
 </section>
@@ -40,15 +91,9 @@
 
     
 
-    <div class="container">
-        <div class="media-container-row align-center mbr-white">
-            <div class="col-12">
-                <p class="mbr-text mb-0 mbr-fonts-style display-7">
-                    © Copyright 2020 Mega Empire - All Rights Reserved
-                </p>
-            </div>
-        </div>
-    </div>
+<?php
+ require_once 'footer.php';
+ ?>
 </section>
 
 

@@ -67,11 +67,10 @@
             <div class="media-content px-3 align-self-center mbr-white py-2">
                 <p class="mbr-text testimonial-text mbr-fonts-style display-7">I BELIEVE CREATIVITY IS THE NEW DEAL FROM NOW ON AND THEN, AS A GROUP OF YOUTH WE BELIEVE CREATIVE FOUNDATION OF YOUR BUSINESS IS THE MAJOR KEY TO A STRONGER RESULT INTO THE MARKET, <br>LET US TAKE CARE OF YOUR IDEA AND IMPROVISE IT PHYSICALLY, AS WE HANDLE IT ON AS STRICTLY CREATIVE.</p>
                 <p class="mbr-author-name pt-4 mb-2 mbr-fonts-style display-7">
-                   Juliana K</p>
+                   Juliana JK</p>
                 <p class="mbr-author-desc mbr-fonts-style display-7">
                    CEO, Mega Empire</p>
             </div>
-
             <div class="mbr-figure pl-lg-5" style="width: 130%;">
               <img src="assets/images/20200730-0257.png" alt="" title="">
             </div>
@@ -85,15 +84,9 @@
 
     
 
-    <div class="container">
-        <div class="media-container-row align-center mbr-white">
-            <div class="col-12">
-                <p class="mbr-text mb-0 mbr-fonts-style display-7">
-                    © Copyright 2020 Mega Empire - All Rights Reserved
-                </p>
-            </div>
-        </div>
-    </div>
+<?php
+ require_once 'footer.php';
+ ?>
 </section>
 
 

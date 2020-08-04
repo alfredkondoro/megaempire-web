@@ -41,9 +41,9 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/face1.jpg">
+                            <img src="assets/images/julz.png">
                         </div>
-                        <p class="mbr-text mbr-fonts-style display-7">""</p>
+                        <p class="mbr-text mbr-fonts-style display-7">"Creativity is the key"</p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">
@@ -61,7 +61,7 @@
                             <img src="assets/images/face2.jpg">
                         </div>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           ""</p>
+                           "Branding, is my journey"</p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">
@@ -76,10 +76,10 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/face3.jpg">
+                            <img src="assets/images/alfred.png">
                         </div>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           ""</p>
+                           "Best experience of my life"</p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">
@@ -94,10 +94,10 @@
                 <div class="panel-item p-3">
                     <div class="card-block">
                         <div class="testimonial-photo">
-                            <img src="assets/images/face2.jpg">
+                            <img src="assets/images/jmb.png">
                         </div>
                         <p class="mbr-text mbr-fonts-style display-7">
-                           ""</p>
+                           "Work hard, play hard"</p>
                     </div>
                     <div class="card-footer">
                         <div class="mbr-author-name mbr-bold mbr-fonts-style display-7">
@@ -121,15 +121,9 @@
 
     
 
-    <div class="container">
-        <div class="media-container-row align-center mbr-white">
-            <div class="col-12">
-                <p class="mbr-text mb-0 mbr-fonts-style display-7">
-                    © Copyright 2020 Mega Empire - All Rights Reserved
-                </p>
-            </div>
-        </div>
-    </div>
+<?php
+ require_once 'footer.php';
+ ?>
 </section>
 
 
